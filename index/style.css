@@ -1,0 +1,166 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+}
+body {
+  font-family: "Kanit", sans-serif;
+  background-color: #171717;
+}
+.container {
+  width: 1050px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #171717;
+  color: #fff;
+  margin-top: 20px;
+}
+/*navbar start*/
+
+ul.navbar-nav {
+  margin-left: auto;
+}
+
+a.navbar-brand {
+  font-size: 30px;
+}
+
+#navbarNav ul li a {
+  transition: 0.8s;
+}
+
+#navbarNav ul li a:hover {
+  color: tomato;
+}
+/*navbar end*/
+/*intro start*/
+
+.intro {
+  width: 50%;
+  float: left;
+  padding-top: 250px;
+}
+.logo {
+  width: 50%;
+  float: left;
+}
+
+button.btn1 {
+  background-color: #27ae60;
+  padding: 5px;
+  border: none;
+  color: #fff;
+  font-size: 15px;
+}
+
+button.btn2 {
+  background-color: #171717;
+  padding: 4px;
+  border-color: #fff;
+  color: #fff;
+  font-size: 15px;
+  margin-left: 5px;
+}
+.logo img {
+  width: 450px;
+  height: 550px;
+  padding-top: 100px;
+}
+/*intro end*/
+
+.text h1 {
+  text-align: center;
+  padding-top: 650px;
+  margin-bottom: 20px;
+}
+.p1 p {
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.text p {
+  font-size: 19px;
+}
+
+.uss {
+  width: 25%;
+  float: left;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.card-body {
+  background-color: #212121;
+  color: #535353;
+}
+
+.tex {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.card-title {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #27ae60;
+}
+
+.damm {
+  margin-bottom: 47px;
+}
+
+.boxx {
+  margin-bottom: 40px;
+}
+.bnn {
+  padding-bottom: 40px;
+}
+.para {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.tax {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  color: #535353;
+}
+
+.navbar {
+  background-color: #212121;
+  margin-bottom: 40px;
+}
+.waaa {
+  color: #27ae60;
+  font-size: 20px;
+}
+
+.btnn {
+  font-size: 17px;
+  margin-bottom: 30px;
+}
+.aaa {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 15px;
+  color: #528bff;
+}
+
+.bbb {
+  color: #535353;
+  text-align: right;
+  font-style: italic;
+  font-size: 13px;
+}
+
+/*program end*/
